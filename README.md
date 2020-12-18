@@ -1,2 +1,8 @@
 # WebRTC
-Web chat for multiple users, using JS and Bootstrap front-end, Node.js for signalling.
+Web chat for multiple users. The frontend uses Javascript, jQuery and Bootstrap. The backend uses Node.js and socket.io
+
+<h2>Installation</h2>
+`npm i socket.io`
+
+<h2>Configuration</h2>
+See the CONFIG object in client/webrtc.js
